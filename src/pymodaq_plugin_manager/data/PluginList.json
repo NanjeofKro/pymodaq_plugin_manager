@@ -271,6 +271,20 @@
 			"authors": ["Sebastien Weber"],
 			"contributors": [],
 			"homepage": "https://github.com/PyMoDAQ/pymodaq_plugins_oceaninsight"
-		}
+		},
+		{
+			"plugin-name": "pymodaq_plugins_bronkhorst",
+			"display-name": "Bronkhorst Flow Meters and Controllers",
+			"version": "0.0.1",
+			"id": ""
+			"repository": "https://github.com/NanjeofKro/pymodaq_plugins_bronkhorst/archive/0.0.1.tar.gz"
+			"description": "Set of PyMoDAQ plugins for Bronkhorst instruments"
+			"instruments":{
+				"Viewer0D": ["View flow from single MFC/MFM"]
+			},
+			"authors":["Jonas Elmroth Nordlander"],
+			"contributors":[],
+			"homepage":"https://github.com/NanjeofKro/pymodaq_plugins_bronkhorst"
+		}		
 	]
 }
